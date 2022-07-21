@@ -1,0 +1,7 @@
+.navigation {
+    height: 80px;
+}
+
+.full {
+    height: calc(100vh - 80px)
+}
